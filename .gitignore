@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Outputs (uncomment these if you want to exclude sample outputs)
+# Exports/
+# *.png
+# *.csv
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# LaTeX (if you keep any LaTeX files here)
+*.aux
+*.log
+*.out
+*.synctex.gz

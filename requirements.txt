@@ -1,0 +1,6 @@
+tensorflow>=2.15,<2.20
+numpy>=1.23
+matplotlib>=3.5
+pandas>=1.5
+openpyxl>=3.0
+scipy>=1.9
