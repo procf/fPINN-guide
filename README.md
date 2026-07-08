@@ -67,9 +67,9 @@ If you use this code in your research, please cite:
 @article{dabiri2024fpinn,
   title   = {A detailed and comprehensive account of fractional Physics-Informed Neural Networks: From implementation to efficiency},
   author  = {Dabiri, Donya and DaRosa, Joshua and Saadat, Milad and Mangal, Deepak and Jamali, Safa},
-  journal = {[Journal Name]},
-  year    = {[Year]},
-  doi     = {[DOI]}
+  journal = {Artificial Intelligence for Engineering},
+  year    = {2026},
+  doi     = {https://doi.org/10.1049/aie2.70024}
 }
 ```
 
