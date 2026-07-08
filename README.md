@@ -83,4 +83,4 @@ For questions, please contact Donya Dabiri at dabiri.d@northeastern.edu or open 
 
 ## Acknowledgements
 
-This work was supported by the National Science Foundation's DMREF program through Award #2118962.
+This work was supported by the National Science Foundation's DMREF program through Award #2118962 and Army Research Office (Grant W911NF-22-1-0172).
