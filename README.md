@@ -2,7 +2,7 @@
 
 This repository contains the source code and trained model weights accompanying the paper:
 
-> Dabiri, D., DaRosa, J., Saadat, M., Mangal, D., Jamali, S. *"A detailed and comprehensive account of fractional Physics-Informed Neural Networks: From implementation to efficiency."* [Journal Name, Year]. [DOI link when available]
+> Dabiri, D., DaRosa, J., Saadat, M., Mangal, D., Jamali, S. *"A detailed and comprehensive account of fractional Physics-Informed Neural Networks: From implementation to efficiency."* [Artificial Intelligence for Engineering, 2026]. [https://doi.org/10.1049/aie2.70024]
 
 ## Overview
 
